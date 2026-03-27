@@ -1,4 +1,4 @@
-# Uber-Labour (Workify)
+# Workify
 
 Workify is a full-stack on-demand labour marketplace built with the MERN stack. It connects users who need skilled help with verified workers, supports real-time task updates, live tracking, OTP-based arrival verification, and review/report handling.
 
